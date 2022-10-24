@@ -1,0 +1,11 @@
+{
+  "name": "draganddropjs",
+  "version": "1.0.0",
+  "description": "Изучение Drag and Drop  в js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anatoliy",
+  "license": "ISC"
+}
